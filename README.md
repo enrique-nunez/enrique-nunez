@@ -6,7 +6,7 @@
 <p align="center">Soy <strong>Desarrollador Full Stack</strong> con 3 años de experiencia.<br />¡Revisa mi contenido 👇!</p>
 
 <div>
-  <a href="https://beacons.ai/rafaballerini">
+  <!--a href="https://beacons.ai/rafaballerini"-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enrique-nunez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrique-nunez&layout=compact&langs_count=16&theme=dark"/>
 </div>
