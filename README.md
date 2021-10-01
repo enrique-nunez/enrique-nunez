@@ -5,8 +5,6 @@
 
 <p align="center">Soy <strong>Desarrollador Full Stack</strong> con 3 años de experiencia.<br />¡Revisa mi contenido 👇!</p>
 
-# Enrique Nuñez
-<p>Soy un chico que me encanta la tecnología</p>
 
 <h1>Skill</h1>
 
