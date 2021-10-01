@@ -7,8 +7,9 @@
    
 </p>
 
-<p align="center">Soy <strong>Desarrollador Full Stack</strong> con 3 años de experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p align="center">Soy <strong>Desarrollador Full Stack</strong> con 3 años de experiencia.</p>
 
+<p>Soy un chico que le apasiona la tecnología y disfruto mucho al desarrollar software de alta calidad, soy de mente abierta para aprender y para contribuir en lo que se requiera. </p>
 
   
 # Skill   
@@ -20,6 +21,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
 </div>
 
 # GitHub Stats
